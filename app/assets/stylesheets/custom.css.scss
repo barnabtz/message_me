@@ -1,9 +1,21 @@
 @import "semantic-ui";
 
+body {
+  font-family: "Advent Pro"!important;
+}
+
 .ui, .menu {
   font-family: "Asap Medium";
   -webkit-box-shadow: none;
   box-shadow: none;
+}
+
+.chatbox {
+  height: 450px;
+}
+
+.logo {
+  background-image: url("logo.png");
 }
 
 
