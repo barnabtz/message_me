@@ -1,9 +1,7 @@
 <div class="item">
   <%= image_tag "logo.png" %>
 </div>
-<a class="active item">
-  CHATROOMS
-</a>
+<%= link_to "CHATROOMS", root_path, class: "active item" %>
 <a href="" class="item">
   MESSAGES
 </a>
@@ -12,7 +10,7 @@
     ACCOUNT <i class="dropdown icon"></i>
     <div class="menu">
       <a href="" class="item">Sign Out</a>
-      <a href="" class="item">Sign In</a>
+      <%= link_to "Sign In", login_path, class: "item" %>
       <a href="" class="item">Sign Up</a>
     </div>
   </div>
