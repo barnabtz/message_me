@@ -2,9 +2,15 @@
   <dictionary name="Btz">
     <words>
       <w>activestorage</w>
+      <w>bcrypt</w>
       <w>chatbox</w>
       <w>chatroom</w>
+      <w>duktape</w>
+      <w>hirb</w>
+      <w>jbuilder</w>
       <w>turbolinks</w>
+      <w>uglifier</w>
+      <w>webpacker</w>
     </words>
   </dictionary>
 </component>
