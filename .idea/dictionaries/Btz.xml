@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="Btz">
     <words>
+      <w>actioncable</w>
       <w>activestorage</w>
       <w>bcrypt</w>
       <w>chatbox</w>
@@ -11,6 +12,7 @@
       <w>turbolinks</w>
       <w>uglifier</w>
       <w>webpacker</w>
+      <w>websockets</w>
     </words>
   </dictionary>
 </component>

@@ -18,4 +18,13 @@ body {
   background-image: url("logo.png");
 }
 
+#messages {
+  height: 15em;
+  overflow: auto;
+}
 
+.input {
+  button {
+    display: none;
+  }
+}
